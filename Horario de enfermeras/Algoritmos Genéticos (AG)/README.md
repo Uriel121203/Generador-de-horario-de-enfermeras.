@@ -53,10 +53,12 @@ El proyecto está desarrollado en Python y utiliza las siguientes librerías cla
     ```bash
     python AG_Horario_de_enfermeras.py
     ```
-
-## Resultados
-
+    
 Al finalizar, el sistema genera:
 * **Consola:** Reporte de violaciones restantes (si las hay).
 * **Excel:** Archivo `horario_enfermeras.xlsx` con la tabla de turnos.
 * **Gráfica:** Curva de convergencia del algoritmo.
+
+## Excel Output Horario
+## **Gráfica**
+![Dashboard Screenshot](Horario de enfermeras/imágenes/horario_enfermeras_AG.png)
