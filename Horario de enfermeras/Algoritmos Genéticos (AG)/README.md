@@ -61,4 +61,4 @@ Al finalizar, el sistema genera:
 
 ## Excel Output Horario
 ## **Gráfica**
-![Dashboard Screenshot](imágenes/horario_enfermeras_AG.png)
+![Excel Output](imágenes/horario_enfermeras_AG.png)
