@@ -60,5 +60,4 @@ Al finalizar, el sistema genera:
 * **Gráfica:** Curva de convergencia del algoritmo.
 
 ## Excel Output Horario
-## **Gráfica**
 ![Excel Output](imágenes/horario_enfermeras_AG.png)
