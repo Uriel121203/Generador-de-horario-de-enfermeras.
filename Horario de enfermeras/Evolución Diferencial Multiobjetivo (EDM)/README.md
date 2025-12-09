@@ -122,3 +122,6 @@ Durante la ejecución del algoritmo se muestra en consola la evolución de las p
 	...
 	>>> ¡PERFECCIÓN ALCANZADA! <<<
 	 Cálculo finalizado. Generando reporte visual...
+
+### Output Horario
+![Dashboard Screenshot](../imágenes/horario_enfermeras_EDM.png)
