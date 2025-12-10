@@ -71,6 +71,8 @@ Cada enfermera se representa como un vector de valores reales, el cual se transf
 
 	[0.23, 0.45, 0.46, 0.90, 0.67, 0.65, 0.34, 0.54, 0.46, 0.23, 0.50, 0.21, ...]
 
+---
+
 ##  Eficiencia Computacional
 
 Durante la fase experimental se observó una diferencia clara en la eficiencia de ambos enfoques, medida en términos del número de generaciones necesarias para alcanzar una solución viable y estable:
@@ -79,6 +81,8 @@ Durante la fase experimental se observó una diferencia clara en la eficiencia d
 - **Evolución Diferencial Multiobjetivo:** 1500 generaciones.
 
 Esto indica que, para este problema específico, los Algoritmos Genéticos convergen de manera más rápida hacia soluciones de alta calidad, mientras que la Evolución Diferencial requiere un mayor número de iteraciones para estabilizarse.
+
+---
 
 ## Resultados Obtenidos
 
@@ -98,7 +102,7 @@ Ambos enfoques lograron generar **horarios completamente viables**, cumpliendo t
 - Violaciones por cobertura de personal: 0  
 - Violaciones a preferencias personales: **7**
 
-## Tabla Comparativa: AG vs DEM
+### Tabla Comparativa: AG vs DEM
 
 | Criterio | Algoritmos Genéticos (AG) | Evolución Diferencial Multiobjetivo (DEM) |
 |--------|---------------------------|------------------------------------------|
@@ -112,6 +116,8 @@ Ambos enfoques lograron generar **horarios completamente viables**, cumpliendo t
 | Complejidad computacional | Baja | Mayor |
 | Calidad del resultado | **Alta** | Media |
 | Eficiencia global | **Alta** | Moderada |
+
+---
 
 ## Conclusión
 
