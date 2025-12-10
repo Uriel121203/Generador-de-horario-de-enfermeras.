@@ -35,7 +35,7 @@ Archivo principal:
 
 ---
 
-### Algoritmos Genéticos con Elitismo
+### Algoritmos Genéticos
 
 Este enfoque implementa un **Algoritmo Genético clásico**, basado en selección, cruza y mutación, incorporando **elitismo** mediante un Salón de la Fama para preservar las mejores soluciones encontradas.
 
